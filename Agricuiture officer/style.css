@@ -2,9 +2,9 @@
   color: blue;
 }
 .tab,
-tr,
 th,
 td {
-  border: 2px;
-  border: solid;
+  border: 1px solid burlywood;
+  border-collapse: collapse;
+  border-radius: 50px;
 }
