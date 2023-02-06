@@ -1,0 +1,19 @@
+.them {
+  color: blue;
+}
+.tab,
+th,
+td {
+  border: 1px solid burlywood;
+  border-collapse: collapse;
+}
+#come {
+  color: blueviolet;
+}
+h3:hover {
+  color: aqua;
+}
+.fa-solid {
+  color: blueviolet;
+  font-size: 30px;
+}
